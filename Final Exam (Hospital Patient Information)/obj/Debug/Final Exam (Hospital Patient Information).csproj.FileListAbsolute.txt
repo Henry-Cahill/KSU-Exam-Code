@@ -1,0 +1,6 @@
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\obj\Debug\Final Exam (Hospital Patient Information).csprojAssemblyReference.cache
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\bin\Debug\Final Exam (Hospital Patient Information).exe.config
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\bin\Debug\Final Exam (Hospital Patient Information).exe
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\bin\Debug\Final Exam (Hospital Patient Information).pdb
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\obj\Debug\Final Exam (Hospital Patient Information).exe
+C:\Users\hankm\source\repos\Final Exam (Hospital Patient Information)\Final Exam (Hospital Patient Information)\obj\Debug\Final Exam (Hospital Patient Information).pdb
